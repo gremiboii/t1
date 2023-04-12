@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author benkh
+ *
+ */
+module lab {
+}
